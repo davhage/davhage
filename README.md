@@ -2,7 +2,7 @@ Hi! I'm David. I like to build things, solve puzzles and steal memes to share th
 
 I'm on the path to become a front-end developer.
 
-For the moment I'm kinda good with HTML and CSS and currently learning JS, (yes I know whats the difference between var, let and const, or atleast I think so). I'm looking to build experience by making and hopefully colaborating in exiting projects with experienced developers, so if you have anything I can help with, feel free to [contact me](davidhage@hotmail.com). I'm also looking for a job, so if you're looking for an inexperienced developer I'm your guy.
+For the moment I'm kinda good with HTML and CSS and currently learning JS, (yes I know whats the difference between var, let and const, or atleast I think so). I'm looking to build experience by making and hopefully colaborating in exiting projects with experienced developers, so if you have anything I can help with, feel free to contact me. I'm also looking for a job, so if you're looking for an inexperienced developer I'm your guy.
 
 <img src="https://github.com/davhage/davhage/assets/74213178/9bec152b-dd5d-4325-b490-ca10928ece41" width="300">
 
