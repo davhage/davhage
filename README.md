@@ -1,7 +1,6 @@
 # 👋 Hi! I'm David
 
-
-🌐 **Focused on building intuitive and engaging web experiences.**\
+🌐 **Focused on building intuitive and engaging web experiences.**
 
 💻 Completed coursework in React, with a solid foundation in web development.
 
@@ -19,9 +18,6 @@
 ## 🎯 About Me
 I love building things, solving puzzles, and sharing the best memes. I'm on the journey to becoming a front-end developer. I have a solid foundation in web development, with hands-on experience in **React** from personal projects and coursework. I'm excited to take on new projects and collaborate with passionate developers. Feel free to reach out if you have a project where I can contribute!
 
-You'll find me exploring the outdoors or practicing my hand-poked tattoo when I'm not coding.
+You'll find me exploring the outdoors or practicing my hand-poked tattoo when not coding.
 
 ![github stats](https://github-readme-streak-stats.herokuapp.com/?user=davhage&)
-
-### Support
-[![buyme a coffee image](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/davidhage)
